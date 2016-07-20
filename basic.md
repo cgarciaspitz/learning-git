@@ -11,3 +11,6 @@ Git Basics
 *git diff
 
 *git log 
+
+*git EDIT 1
+
