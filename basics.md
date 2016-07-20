@@ -5,4 +5,6 @@ Git Basics
 *git status - I can use this anytime to see the current status of the 
 repository
 
+*git add - 
+
 
